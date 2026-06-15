@@ -20,3 +20,7 @@
 ## What's next
 
 * [Roadmap](roadmap.md)
+
+## Help
+
+* [FAQ](faq.md)
