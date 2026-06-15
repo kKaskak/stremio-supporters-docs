@@ -15,7 +15,7 @@ you think about them, instead of one long list.
 ### 💬 More Subtitle Improvements
 
 Many more subtitle upgrades on the way, building on
-[live sync](features/improved-subtitles.md) — including automatic syncing.
+[live sync](features/improved-subtitles.md).
 
 ### 🎨 Themes for all apps
 
