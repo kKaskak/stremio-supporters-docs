@@ -36,6 +36,11 @@ Submit a bug report on
 > custom avatar on [web.stremio.com](https://web.stremio.com) or the desktop app
 > for Windows / macOS.
 
+### I'm on Linux, or still using v4.4 on desktop.
+
+Please upgrade to **v5** to use Supporters features. Linux support is on the
+way — stay tuned.
+
 ### How do I cancel?
 
 Go to [stremio.com](https://www.stremio.com) → **Manage billing** and cancel
