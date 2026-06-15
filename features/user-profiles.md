@@ -30,8 +30,6 @@ its own avatar:
 
 ![](../.gitbook/assets/profiles-enter-pin.png)
 
-<img src="../.gitbook/assets/ios-user-profiles-pin.png" width="300" />
-
 3. You're in your own space — your add-ons, your catalogs, your recommendations.
 
 Switching profiles works the same way everywhere — Web, Desktop, Mobile and TV:
