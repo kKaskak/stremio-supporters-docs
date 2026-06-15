@@ -23,6 +23,10 @@ jobs:
         with:
           node-version: 22
       - run: npx honkit@6.2.2 build
+      - name: Strip generator branding
+        run: |
+          find _book -name '*.html' -print0 | xargs -0 perl -0pi -e \
+            's/ · HonKit<\/title>/<\/title>/g; s/[ \t]*<meta name="generator"[^>]*>\n?//g; s{\s*<li>\s*<a href="https:\/\/github\.com\/honkit\/honkit".*?<\/a>\s*<\/li>}{}gs;'
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

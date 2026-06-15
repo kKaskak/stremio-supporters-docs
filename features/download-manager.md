@@ -24,9 +24,6 @@ You can:
 
 1. Open a movie or episode and pick a stream, **or** start playing it.
 2. Use the **Download** action on the stream (or in the player's options menu).
-
-![](../.gitbook/assets/downloads-button.png)
-
 3. The download appears on the **Downloads** page with a live progress bar,
    speed, and how much of the file has been saved.
 
