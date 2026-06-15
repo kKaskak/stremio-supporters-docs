@@ -13,11 +13,6 @@ Contact our team at [support@stremio.com](mailto:support@stremio.com) and we'll
 move the subscription over to the correct Stremio account seamlessly. We can
 also change the email used for your transaction confirmations.
 
-### How do I cancel?
-
-Go to [stremio.com](https://www.stremio.com) → **Manage billing** and cancel
-there.
-
 ### Can I import my watch history, library and other items from another Stremio account into a new profile?
 
 > **Coming soon.** From [stremio.com/acc-settings](https://www.stremio.com/acc-settings)
@@ -34,3 +29,8 @@ there.
 
 Submit a bug report on
 [stremio-bugs](https://github.com/Stremio/stremio-bugs) and we'll take a look.
+
+### How do I cancel?
+
+Go to [stremio.com](https://www.stremio.com) → **Manage billing** and cancel
+there.
