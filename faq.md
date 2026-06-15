@@ -9,9 +9,9 @@ safe. They stay in place and come back as soon as you resubscribe.
 
 ### I paid on the wrong Stremio account / email.
 
-Contact our team and we'll move the subscription over to the correct Stremio
-account seamlessly. We can also change the email used for your transaction
-confirmations.
+Contact our team at [support@stremio.com](mailto:support@stremio.com) and we'll
+move the subscription over to the correct Stremio account seamlessly. We can
+also change the email used for your transaction confirmations.
 
 ### How do I cancel?
 
