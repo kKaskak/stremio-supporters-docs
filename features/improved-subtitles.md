@@ -32,5 +32,4 @@ There are two ways to line subtitles up:
 4. Close the menu — your adjusted timing stays applied for the rest of the
    stream.
 
-> **Note:** More subtitle improvements are [on the roadmap](../roadmap.md), including
-> automatic syncing.
+> **Note:** More subtitle improvements are [on the roadmap](../roadmap.md).
