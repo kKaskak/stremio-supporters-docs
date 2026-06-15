@@ -21,7 +21,7 @@ computer) · — not applicable
 ## What the columns mean
 
 * **Web** — [web.stremio.com](https://web.stremio.com) in any browser.
-* **Desktop** — the Windows, macOS and Linux apps.
+* **Desktop** — the Stremio **v5** apps for Windows and macOS (Linux support coming soon).
 * **Mobile** — Android phones and tablets, iOS and iPadOS.
 * **TV** — Android TV, Samsung (Tizen) and LG (webOS) smart TVs.
 * **VR** — Meta Quest and Pico headsets.
