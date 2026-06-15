@@ -30,6 +30,12 @@ also change the email used for your transaction confirmations.
 Submit a bug report on
 [stremio-bugs](https://github.com/Stremio/stremio-bugs) and we'll take a look.
 
+### I want to change my avatar to a custom photo.
+
+> **Coming soon.** We're adding Gravatar support, so you'll be able to set a
+> custom avatar on [web.stremio.com](https://web.stremio.com) or the desktop app
+> for Windows / macOS.
+
 ### How do I cancel?
 
 Go to [stremio.com](https://www.stremio.com) → **Manage billing** and cancel
